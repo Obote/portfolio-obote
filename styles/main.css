@@ -21,7 +21,6 @@ a {
   width: 81px;
   left: 12px;
   top: 10px;
-  border-radius: nullpx;
   font-family: Roboto, sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -47,18 +46,28 @@ a {
   line-height: 72px;
   letter-spacing: 0.3700000047683716px;
   text-align: center;
-  color: #7D73FC;
-
+  color: #7d73fc;
 }
 
 .profile-container h2 {
   font-family: Roboto, sans-serif;
-font-size: 32px;
-font-style: normal;
-font-weight: 500;
-line-height: 44px;
-letter-spacing: 0em;
-text-align: center;
-color: #EDECFF;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 44px;
+  letter-spacing: 0;
+  text-align: center;
+  color: #edecff;
+}
+
+p {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0;
+  text-align: center;
+  color: #C8C8D4;
 
 }
