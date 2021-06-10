@@ -1,53 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
 
-* {
-  list-style-type: none;
-  text-decoration: none;
-}
-
 body {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-color: #e5e5e5;
-  height: 92px;
   width: 375px;
-  left: 0;
-  top: 0;
-  border-radius: 0;
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 46px;
-}
-
-a {
-  font-family: Roboto, sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 16px;
-  letter-spacing: 0.03em;
-  text-align: left;
-  margin-top: ;
-}
-
-.nav-menu {
-  height: 0;
-  width: 33.33332824707031px;
-  left: 8.33349609375px;
-  top: 14.583251953125px;
-  border-radius: 0;
-}
-
-.profile-container {
-  margin-top: 100px;
-  width: 375px;
-  left: 0;
-  top: 0;
-  padding-top: 1rem;
+  
 }
