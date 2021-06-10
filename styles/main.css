@@ -3,5 +3,16 @@
 
 body {
   width: 375px;
-  
+  background-color: blueviolet;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 16px;
+}
+
+.nav-menu {
+  cursor: pointer;
 }
