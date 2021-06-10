@@ -9,11 +9,6 @@
 
 body {
   width: 375px;
-    
-}
-
-.profile {
-  
 }
 
 header {
@@ -26,14 +21,18 @@ header {
   top: 0;
   border-radius: 0;
   background-color: #191765;
-  padding:0px 24px;
+  padding: 0 24px;
 }
 
 main {
   width: 375px;
-  padding:80px 24px;
-  background-color: #191765; 
-    
+  display: flex;
+  flex-direction: column;
+  padding: 80px 24px;
+  background-color: #191765;
+  background-image: url(../assests/eclipes.png);
+  background-position-x: -180px;
+  background-position-y: 40px;
 }
 
 .nav-menu {
@@ -59,8 +58,8 @@ main {
   width: 327px;
   left: 24px;
   top: 120px;
-  border-radius: 0; 
-} 
+  border-radius: 0;
+}
 
 .profile-container h1 {
   font-family: Roboto, sans-serif;
@@ -84,7 +83,6 @@ main {
 }
 
 p {
- 
   font-family: Roboto, sans-serif;
   font-size: 20px;
   font-style: normal;
