@@ -30,3 +30,23 @@ a {
   letter-spacing: 0.03em;
   text-align: center;
 }
+
+.profile-container {
+  height: 154px;
+  width: 327px;
+  left: 24px;
+  top: 120px;
+  border-radius: 0;
+}
+
+.profile-container h1 {
+  font-family: Roboto, sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: 0.3700000047683716px;
+  text-align: center;
+  color: #7D73FC;
+
+}
