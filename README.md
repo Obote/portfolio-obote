@@ -2,9 +2,8 @@
 
 # Linters
 
-> Using linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
 
-![screenshot](./app.png)
+![screenshot](./app_screenshot.png)
 
 My portfolio page
 
