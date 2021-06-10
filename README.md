@@ -1,59 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Linters
 
-> One paragraph statement about the project.
+> Using linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app.png)
 
-Additional description about the project and its features.
+My portfolio page
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
+- node
+- hmtl
+- css
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Node dependencies
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Obote](https://github.com/Obote)
+- Twitter: [@Obote_denis](https://twitter.com/Obote_denis)
+- LinkedIn: [Obote Denis](https://www.linkedin.com/in/obote-denis-9859a2a3/)
 
 ## 🤝 Contributing
 
@@ -69,7 +40,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
