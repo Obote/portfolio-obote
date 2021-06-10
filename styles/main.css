@@ -10,9 +10,23 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 16px;
 }
 
 .nav-menu {
   cursor: pointer;
+}
+
+a {
+  height: 16px;
+  width: 81px;
+  left: 12px;
+  top: 10px;
+  border-radius: nullpx;
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-align: center;
 }
