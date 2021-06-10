@@ -1,26 +1,46 @@
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
 
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
 body {
   width: 375px;
-  background-color: blueviolet;
+    
+}
+
+.profile {
+  
 }
 
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 44px;
+  width: 375px;
+  left: 0;
+  top: 0;
+  border-radius: 0;
+  background-color: #191765;
+  padding:0px 24px;
+}
+
+main {
+  width: 375px;
+  padding:80px 24px;
+  background-color: #191765; 
+    
 }
 
 .nav-menu {
   cursor: pointer;
 }
 
-a {
-  height: 16px;
-  width: 81px;
-  left: 12px;
-  top: 10px;
+.logo a {
   font-family: Roboto, sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -28,15 +48,19 @@ a {
   line-height: 16px;
   letter-spacing: 0.03em;
   text-align: center;
+  color: #fff;
+  padding-left: 24px;
+  padding-right: 24px;
+  text-decoration: none;
 }
 
 .profile-container {
-  height: 154px;
+  height: 450px;
   width: 327px;
   left: 24px;
   top: 120px;
-  border-radius: 0;
-}
+  border-radius: 0; 
+} 
 
 .profile-container h1 {
   font-family: Roboto, sans-serif;
@@ -55,12 +79,12 @@ a {
   font-style: normal;
   font-weight: 500;
   line-height: 44px;
-  letter-spacing: 0;
   text-align: center;
   color: #edecff;
 }
 
 p {
+ 
   font-family: Roboto, sans-serif;
   font-size: 20px;
   font-style: normal;
@@ -68,6 +92,5 @@ p {
   line-height: 28px;
   letter-spacing: 0;
   text-align: center;
-  color: #C8C8D4;
-
+  color: #c8c8d4;
 }
