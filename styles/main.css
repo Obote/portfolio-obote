@@ -100,16 +100,16 @@ button {
 }
 
 button:hover {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
 }
 
 button:focus {
   outline: none;
-  box-shadow: 0 0 0 3px #7D73FC;
+  box-shadow: 0 0 0 3px #7d73fc;
 }
 
 button:active {
-  background-color:#E5E5E5;
-  border-color: #ACB7C3;
-  color: #ACB7C3;
+  background-color: #e5e5e5;
+  border-color: #acb7c3;
+  color: #acb7c3;
 }
