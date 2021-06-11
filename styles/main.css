@@ -97,7 +97,6 @@ p {
 button {
   background-color: #191765;
   border: #191765;
-  
 }
 
 button:hover {
@@ -111,6 +110,6 @@ button:focus {
 
 button:active {
   background-color: #333;
-  border-color: #333; 
+  border-color: #333;
   color: #eee;
 }
