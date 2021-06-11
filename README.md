@@ -1,11 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My portfolio 
+## My portfolio 
+
+This project is a mobile version of my portfolio. it willbe contious project that will show what am capable of doing a developer.
 
 
 ![screenshot](./app_screenshot.png)
 
-This project is a mobile version of my portfolio. it willbe contious project that will show what am capable of doing a developer.
 
 ## Built With
 
