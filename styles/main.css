@@ -93,3 +93,24 @@ p {
   text-align: center;
   color: #c8c8d4;
 }
+
+button {
+  background-color: #191765;
+  border: #191765;
+  
+}
+
+button:hover {
+  background-color: #aaa;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
+}
+
+button:active {
+  background-color: #333;
+  border-color: #333; 
+  color: #eee;
+}
