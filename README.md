@@ -13,6 +13,11 @@ This project is a mobile version of my portfolio. it willbe contious project tha
 - node
 - hmtl
 - css
+## Live Demo
+
+[Live Demo Link](https://obote.github.io/portfolio-obote/#)
+
+
 
 ### Install
 - Node dependencies
